@@ -1,47 +1,26 @@
 using System;
-using System.Collections.Generic;
-using Dealership.Models;
 
-namespace Dealership
+namespace pingpongtable
 {
 public class Program
 {
- 
   public static void Main()
   {
-    Car volkswagen = new Car("1974 Volkswagen Thing", 1100, 368792);
-    Car yugo = new Car("1980 Yugo Koral", 700, 56000);
-    Car ford = new Car("1988 Ford Country Squire", 1400, 239001);
-    Car amc = new Car("1976 AMC Pacer", 400, 198000);
+    Console.WriteLine("Enter a number to count to: ");
+    string stringMaxNumber = Console.ReadLine();
+    int maxNumber = int.Parse(stringMaxNumber);
 
-    List<Car> Cars = new List<Car>() { volkswagen, yugo, ford, amc };
-
-    Console.WriteLine("Enter maximum price: ");
-    string stringMaxPrice = Console.ReadLine();
-    int maxPrice = int.Parse(stringMaxPrice);
-
-    List<Car> CarsMatchingSearch = new List<Car>(0);
-
-    foreach(Car automobile in Cars)
+    for (int i=1; i<=maxNumber; i++)
     {
-      if (automobile.WorthBuying(maxPrice))
-      {
-        CarsMatchingSearch.Add(automobile);
+      if (i % 3 == 0 && i % 5 == 0) {
+        Console.WriteLine("ping-pong");
+      } else if (i % 3 == 0) {
+        Console.WriteLine("ping");
+      } else if (i % 5 == 0) {
+        Console.WriteLine("pong");
+      } else {
+        Console.WriteLine(i);
       }
-    }
-
-    // foreach(Car automobile in Cars)
-    // {
-    //   double result = Car.ReducePrice(automobile, 0.7);
-    //   Console.WriteLine((int)result);
-    // }
-
-    foreach(Car automobile in CarsMatchingSearch)
-    {
-      Console.WriteLine("-------------------------");
-      Console.WriteLine(automobile.GetMakeModel());
-      Console.WriteLine(automobile.GetMiles() + " miles");
-      Console.WriteLine("$" + (int)(Car.ReducePrice(automobile, 0.7)));
     }
   }
 }

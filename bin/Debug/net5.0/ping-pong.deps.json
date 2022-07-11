@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Dealership/1.0.0": {
+      "ping-pong/1.0.0": {
         "runtime": {
-          "Dealership.dll": {}
+          "ping-pong.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Dealership/1.0.0": {
+    "ping-pong/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

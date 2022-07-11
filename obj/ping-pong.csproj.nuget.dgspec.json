@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/claire/Desktop/dealership/Dealership.csproj": {}
+    "/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/ping-pong.csproj": {}
   },
   "projects": {
-    "/Users/claire/Desktop/dealership/Dealership.csproj": {
+    "/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/ping-pong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/claire/Desktop/dealership/Dealership.csproj",
-        "projectName": "Dealership",
-        "projectPath": "/Users/claire/Desktop/dealership/Dealership.csproj",
-        "packagesPath": "/Users/claire/.nuget/packages/",
-        "outputPath": "/Users/claire/Desktop/dealership/obj/",
+        "projectUniqueName": "/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/ping-pong.csproj",
+        "projectName": "ping-pong",
+        "projectPath": "/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/ping-pong.csproj",
+        "packagesPath": "/Users/difalcoa/.nuget/packages/",
+        "outputPath": "/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/claire/.nuget/NuGet/NuGet.Config"
+          "/Users/difalcoa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

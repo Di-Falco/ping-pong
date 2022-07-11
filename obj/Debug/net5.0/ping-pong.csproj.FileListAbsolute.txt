@@ -1,0 +1,15 @@
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.csproj.AssemblyReference.cache
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.AssemblyInfoInputs.cache
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.AssemblyInfo.cs
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.csproj.CoreCompileInputs.cache
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/bin/Debug/net5.0/ping-pong.deps.json
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/bin/Debug/net5.0/ping-pong.runtimeconfig.json
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/bin/Debug/net5.0/ping-pong.runtimeconfig.dev.json
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/bin/Debug/net5.0/ping-pong.dll
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/bin/Debug/net5.0/ref/ping-pong.dll
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/bin/Debug/net5.0/ping-pong.pdb
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.dll
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ref/ping-pong.dll
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.pdb
+/Users/difalcoa/Desktop/epicodus/ping-pong/ping-pong/obj/Debug/net5.0/ping-pong.genruntimeconfig.cache
