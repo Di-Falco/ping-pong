@@ -24,9 +24,9 @@ public class Car
   // public int Price { get; set; }
   // public int Miles { get; set; }
 
-  public static string MakeSound(string sound)
+  public static double ReducePrice(Car automobile, double newPercentage)
   {
-    return "Our cars sound like " + sound;
+    return automobile._price * newPercentage;
   }
 
   public Car(string makeModel, int price, int miles)

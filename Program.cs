@@ -16,8 +16,6 @@ public class Program
 
     List<Car> Cars = new List<Car>() { volkswagen, yugo, ford, amc };
 
-    yugo.SetPrice(300);
-
     Console.WriteLine("Enter maximum price: ");
     string stringMaxPrice = Console.ReadLine();
     int maxPrice = int.Parse(stringMaxPrice);
@@ -32,12 +30,18 @@ public class Program
       }
     }
 
+    // foreach(Car automobile in Cars)
+    // {
+    //   double result = Car.ReducePrice(automobile, 0.7);
+    //   Console.WriteLine((int)result);
+    // }
+
     foreach(Car automobile in CarsMatchingSearch)
     {
       Console.WriteLine("-------------------------");
       Console.WriteLine(automobile.GetMakeModel());
       Console.WriteLine(automobile.GetMiles() + " miles");
-      Console.WriteLine("$" + automobile.GetPrice());
+      Console.WriteLine("$" + (int)(Car.ReducePrice(automobile, 0.7)));
     }
   }
 }
