@@ -1,0 +1,15 @@
+/Users/claire/Desktop/dealership/bin/Debug/net5.0/Dealership.deps.json
+/Users/claire/Desktop/dealership/bin/Debug/net5.0/Dealership.runtimeconfig.json
+/Users/claire/Desktop/dealership/bin/Debug/net5.0/Dealership.runtimeconfig.dev.json
+/Users/claire/Desktop/dealership/bin/Debug/net5.0/Dealership.dll
+/Users/claire/Desktop/dealership/bin/Debug/net5.0/ref/Dealership.dll
+/Users/claire/Desktop/dealership/bin/Debug/net5.0/Dealership.pdb
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.csproj.AssemblyReference.cache
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.AssemblyInfoInputs.cache
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.AssemblyInfo.cs
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.csproj.CoreCompileInputs.cache
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.dll
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/ref/Dealership.dll
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.pdb
+/Users/claire/Desktop/dealership/obj/Debug/net5.0/Dealership.genruntimeconfig.cache

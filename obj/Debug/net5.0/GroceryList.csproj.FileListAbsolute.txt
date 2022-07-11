@@ -1,0 +1,15 @@
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.csproj.AssemblyReference.cache
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.AssemblyInfoInputs.cache
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.AssemblyInfo.cs
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.csproj.CoreCompileInputs.cache
+/Users/claire/Desktop/grocery-list/bin/Debug/net5.0/GroceryList.deps.json
+/Users/claire/Desktop/grocery-list/bin/Debug/net5.0/GroceryList.runtimeconfig.json
+/Users/claire/Desktop/grocery-list/bin/Debug/net5.0/GroceryList.runtimeconfig.dev.json
+/Users/claire/Desktop/grocery-list/bin/Debug/net5.0/GroceryList.dll
+/Users/claire/Desktop/grocery-list/bin/Debug/net5.0/ref/GroceryList.dll
+/Users/claire/Desktop/grocery-list/bin/Debug/net5.0/GroceryList.pdb
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.dll
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/ref/GroceryList.dll
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.pdb
+/Users/claire/Desktop/grocery-list/obj/Debug/net5.0/GroceryList.genruntimeconfig.cache
